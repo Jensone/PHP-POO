@@ -1,0 +1,18 @@
+/* Normalize CDN */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+
+/* Google Fonts (Kanit, Open Sans) */
+@import url('https://fonts.googleapis.com/css?family=Kanit:400,700|Open+Sans:400,700');
+
+/* Font settings */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  line-height: 1.25;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 700;
+}
